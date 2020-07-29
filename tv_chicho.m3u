@@ -34,104 +34,176 @@ http://thex.tv:8000/Eugenio/Eugenio01/365
 http://thex.tv:8000/Eugenio/Eugenio01/6217
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca_Mundo#/media/Archivo:TV_Azteca_Mundo_logo.svg" group-title="Canales 1",Az Mundo
 http://thex.tv:8000/Eugenio/Eugenio01/6218
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AMC
-http://roedor.xyz/REGIO2O2O/mc.php?c=7&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",BBC World
-http://roedor.xyz/REGIO2O2O/mc.php?c=10&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AMC FHD 
+http://thex.tv:8000/Eugenio/Eugenio01/361
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AMC SD 
+http://thex.tv:8000/Eugenio/Eugenio01/362
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",BBC AMERICA ENTERTAINMENT
+http://thex.tv:8000/Eugenio/Eugenio01/1309
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=11&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/491
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby TV FHD
+http://thex.tv:8000/Eugenio/Eugenio01/491
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Bloomberg
-http://roedor.xyz/REGIO2O2O/mc.php?c=13&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/1219
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
 http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional HD
+http://thex.tv:8000/Eugenio/Eugenio01/6229
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
-http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/4957
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cable Noticias
-http://roedor.xyz/REGIO2O2O/mc.php?c=16&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal Claro
-http://roedor.xyz/REGIO2O2O/mc.php?c=17&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/894
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal de las estrellas Latino
-http://roedor.xyz/REGIO2O2O/mc.php?c=18&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
-http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/633
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network HD
+http://thex.tv:8000/Eugenio/Eugenio01/729
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="Canales 1",Cine Canal FHD
 http://thex.tv:8000/Eugenio/Eugenio01/371
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="Canales 1",Cine Canal
 http://thex.tv:8000/Eugenio/Eugenio01/373
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Latino
-http://roedor.xyz/REGIO2O2O/mc.php?c=23&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/374
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",City TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=26&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Cinema
-http://roedor.xyz/REGIO2O2O/mc.php?c=27&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Music 1
-http://roedor.xyz/REGIO2O2O/mc.php?c=28&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Music 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=29&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports
-http://roedor.xyz/REGIO2O2O/mc.php?c=30&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports Latinoamerica
-http://roedor.xyz/REGIO2O2O/mc.php?c=31&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Comedy Central
-http://roedor.xyz/REGIO2O2O/mc.php?c=32&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/913
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports FHD
+http://thex.tv:8000/Eugenio/Eugenio01/201
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports SD
+http://thex.tv:8000/Eugenio/Eugenio01/203
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Comedy Central HD
+http://thex.tv:8000/Eugenio/Eugenio01/1346
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Concert Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=33&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DHE
-http://roedor.xyz/REGIO2O2O/mc.php?c=34&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/589
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DHE FHD
+http://thex.tv:8000/Eugenio/Eugenio01/380
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DHE SD
+http://thex.tv:8000/Eugenio/Eugenio01/381
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DW
-http://roedor.xyz/REGIO2O2O/mc.php?c=35&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/626
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DW America
 http://roedor.xyz/REGIO2O2O/mc.php?c=36&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",De Pelicula
-http://roedor.xyz/REGIO2O2O/mc.php?c=37&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Dia TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=38&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=39&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Home and Health
-http://roedor.xyz/REGIO2O2O/mc.php?c=40&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Kids
-http://roedor.xyz/REGIO2O2O/mc.php?c=41&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Science
-http://roedor.xyz/REGIO2O2O/mc.php?c=42&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Theater
-http://roedor.xyz/REGIO2O2O/mc.php?c=43&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/6119
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Channel FHD
+http://thex.tv:8000/Eugenio/Eugenio01/545
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Channel SD
+http://thex.tv:8000/Eugenio/Eugenio01/546
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Home and Health FHD
+http://thex.tv:8000/Eugenio/Eugenio01/551
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Home and Health SD
+http://thex.tv:8000/Eugenio/Eugenio01/552
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Kids HD
+http://thex.tv:8000/Eugenio/Eugenio01/502
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Kids SD
+http://thex.tv:8000/Eugenio/Eugenio01/503
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Science FHD
+http://thex.tv:8000/Eugenio/Eugenio01/557
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Science SD
+http://thex.tv:8000/Eugenio/Eugenio01/559
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Theater FHD
+http://thex.tv:8000/Eugenio/Eugenio01/560
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Theater SD
+http://thex.tv:8000/Eugenio/Eugenio01/562
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Turbo
-http://roedor.xyz/REGIO2O2O/mc.php?c=44&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery World
-http://roedor.xyz/REGIO2O2O/mc.php?c=45&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney
-http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney JR
-http://roedor.xyz/REGIO2O2O/mc.php?c=47&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney XD
-http://roedor.xyz/REGIO2O2O/mc.php?c=48&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",E !
-http://roedor.xyz/REGIO2O2O/mc.php?c=49&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/563
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Turbo SD
+http://thex.tv:8000/Eugenio/Eugenio01/565
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery World FHD
+http://thex.tv:8000/Eugenio/Eugenio01/566
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery World SD
+http://thex.tv:8000/Eugenio/Eugenio01/568
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney FHD
+http://thex.tv:8000/Eugenio/Eugenio01/504
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney SD
+http://thex.tv:8000/Eugenio/Eugenio01/506
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney JR FHD
+http://thex.tv:8000/Eugenio/Eugenio01/507
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney JR SD
+http://thex.tv:8000/Eugenio/Eugenio01/509
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney XD FHD
+http://thex.tv:8000/Eugenio/Eugenio01/510
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney XD SD
+http://thex.tv:8000/Eugenio/Eugenio01/512
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",E ! FHD
+http://thex.tv:8000/Eugenio/Eugenio01/638
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",E ! SD
+http://thex.tv:8000/Eugenio/Eugenio01/639
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",El Gourmet
-http://roedor.xyz/REGIO2O2O/mc.php?c=50&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 1 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=51&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 2 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=52&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 3 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=53&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn Plus Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=54&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/640
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",El Gourmet SD
+http://thex.tv:8000/Eugenio/Eugenio01/641
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN CENTRO FHD
+http://thex.tv:8000/Eugenio/Eugenio01/6208
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN CENTRO SD
+http://thex.tv:8000/Eugenio/Eugenio01/6209
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN DEPORTES HD
+http://thex.tv:8000/Eugenio/Eugenio01/218
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 CENTRO FHD
+http://thex.tv:8000/Eugenio/Eugenio01/223
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 CENTRO SD
+http://thex.tv:8000/Eugenio/Eugenio01/224
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 3 CENTRO FHD
+http://thex.tv:8000/Eugenio/Eugenio01/226
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 3 CENTRO SD
+http://thex.tv:8000/Eugenio/Eugenio01/227
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN EXTRA CENTRO FHD
+http://thex.tv:8000/Eugenio/Eugenio01/229
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 3 CENTRO SD
+http://thex.tv:8000/Eugenio/Eugenio01/230
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN SUR FHD
+http://thex.tv:8000/Eugenio/Eugenio01/6210
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN SUR SD
+http://thex.tv:8000/Eugenio/Eugenio01/6211
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 SUR FHD
+http://thex.tv:8000/Eugenio/Eugenio01/235
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 SUR SD
+http://thex.tv:8000/Eugenio/Eugenio01/236
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 SUR FHD
+http://thex.tv:8000/Eugenio/Eugenio01/238
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 SUR SD
+http://thex.tv:8000/Eugenio/Eugenio01/239
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN EXTRA SUR FHD
+http://thex.tv:8000/Eugenio/Eugenio01/241
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN EXTRA SUR SD
+http://thex.tv:8000/Eugenio/Eugenio01/242
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN ARGENTINA HD
+http://thex.tv:8000/Eugenio/Eugenio01/6212
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN ARGENTINA SD
+http://thex.tv:8000/Eugenio/Eugenio01/6213
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 ARGENTINA HD
+http://thex.tv:8000/Eugenio/Eugenio01/246
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN 2 ARGENTINA SD
+http://thex.tv:8000/Eugenio/Eugenio01/247
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Europa Europa
-http://roedor.xyz/REGIO2O2O/mc.php?c=55&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
-http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox
-http://roedor.xyz/REGIO2O2O/mc.php?c=57&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Action
-http://roedor.xyz/REGIO2O2O/mc.php?c=58&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Cinema
-http://roedor.xyz/REGIO2O2O/mc.php?c=60&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/383
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fashion TV FHD
+http://thex.tv:8000/Eugenio/Eugenio01/646
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Food Network FHD
+http://thex.tv:8000/Eugenio/Eugenio01/647
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Food Network SD
+http://thex.tv:8000/Eugenio/Eugenio01/648
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX HD
+http://thex.tv:8000/Eugenio/Eugenio01/407
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX SD
+http://thex.tv:8000/Eugenio/Eugenio01/408
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox FHD
+http://thex.tv:8000/Eugenio/Eugenio01/384
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox SD
+http://thex.tv:8000/Eugenio/Eugenio01/6222
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Action FHD
+http://thex.tv:8000/Eugenio/Eugenio01/386
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Action SD
+http://thex.tv:8000/Eugenio/Eugenio01/388
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Cinema FHD
+http://thex.tv:8000/Eugenio/Eugenio01/389
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Cinema SD
+http://thex.tv:8000/Eugenio/Eugenio01/391
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Cinema Subtitulado
 http://roedor.xyz/REGIO2O2O/mc.php?c=61&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Classics
-http://roedor.xyz/REGIO2O2O/mc.php?c=62&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Classics FHD 
+http://thex.tv:8000/Eugenio/Eugenio01/392
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Classics SD 
+http://thex.tv:8000/Eugenio/Eugenio01/394
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Comedy
 http://roedor.xyz/REGIO2O2O/mc.php?c=63&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Family
@@ -146,17 +218,10 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=68&f.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=69&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series Subtitulado
 http://roedor.xyz/REGIO2O2O/mc.php?c=70&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 1 MX
-http://roedor.xyz/REGIO2O2O/mc.php?c=71&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 1 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=72&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 2 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=73&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 2 MX
-http://roedor.xyz/REGIO2O2O/mc.php?c=74&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 3 MX
-http://roedor.xyz/REGIO2O2O/mc.php?c=75&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 3 Sur
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports CENTRO FHD
+http://thex.tv:8000/Eugenio/Eugenio01/257
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports CENTRO SD
+http://thex.tv:8000/Eugenio/Eugenio01/258
 http://roedor.xyz/REGIO2O2O/mc.php?c=76&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",France 24
 http://roedor.xyz/REGIO2O2O/mc.php?c=77&f.m3u8
