@@ -172,9 +172,9 @@ http://thex.tv:8000/Eugenio/Eugenio01/242
 http://thex.tv:8000/Eugenio/Eugenio01/6212
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN ARGENTINA SD
 http://thex.tv:8000/Eugenio/Eugenio01/6213
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/latinamerica/files/2015/04/RS1759_ESPN_Latin_America_CLR_Pos-scr.jpg" group-title="Canales 1",ESPN 2 ARGENTINA HD
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",ESPN 2 ARGENTINA HD
 http://thex.tv:8000/Eugenio/Eugenio01/246
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/latinamerica/files/2015/04/RS1759_ESPN_Latin_America_CLR_Pos-scr.jpg" group-title="Canales 1",ESPN 2 ARGENTINA SD
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",ESPN 2 ARGENTINA SD
 http://thex.tv:8000/Eugenio/Eugenio01/247
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1515.png" group-title="Canales 1",Europa Europa
 http://thex.tv:8000/Eugenio/Eugenio01/383
