@@ -16,8 +16,12 @@ http://173.212.247.99/hls/tvec3.m3u8
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="EC" tvg-url="" group-title="Canales 1",Teleamazonas HD
 http://173.212.247.99/hls/tvec4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://es.wikipedia.org/wiki/TC_Televisi%C3%B3n#/media/Archivo:Tc_logo.png" tvg-country="EC" tvg-url="" group-title="Canales 1",TC HD
+https://5d4837686f698.streamlock.net/tctelevision/tctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" tvg-country="EC" tvg-url="" group-title="Canales 1",UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://es.wikipedia.org/wiki/RTU_(canal_de_televisi%C3%B3n)#/media/Archivo:Logo_rtu.jpg" tvg-country="EC" tvg-url="" group-title="Canales 1",RTU
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBCUniversal#/media/File:NBC_Universal.svgp" group-title="Canales 1",NBC Universo
 http://thex.tv:8000/Eugenio/Eugenio01/1893
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E FHD
