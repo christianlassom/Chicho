@@ -16,24 +16,24 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 http://173.212.247.99/hls/tvec4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" tvg-country="EC" tvg-url="" group-title="Canales 1",UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",NBC Universo
-http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBCUniversal#/media/File:NBC_Universal.svgp" group-title="Canales 1",NBC Universo
+http://thex.tv:8000/Eugenio/Eugenio01/1893
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E FHD
 http://thex.tv:8000/Eugenio/Eugenio01/357
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E SD
 http://thex.tv:8000/Eugenio/Eugenio01/358
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E SD
 http://thex.tv:8000/Eugenio/Eugenio01/358
-#EXTINF:-1,AXN FHD_
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/AXN_(Latinoam%C3%A9rica)#/media/Archivo:AXN_logo_(2015).svg" group-title="Canales 1",AXN FHD
 http://thex.tv:8000/Eugenio/Eugenio01/363
-#EXTINF:-1,AXN HD_
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/AXN_(Latinoam%C3%A9rica)#/media/Archivo:AXN_logo_(2015).svg" group-title="Canales 1",AXN HD_
 http://thex.tv:8000/Eugenio/Eugenio01/364
-#EXTINF:-1,AXN SD_
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/AXN_(Latinoam%C3%A9rica)#/media/Archivo:AXN_logo_(2015).svgp" group-title="Canales 1",AXN SD_
 http://thex.tv:8000/Eugenio/Eugenio01/365
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Corazon
-http://roedor.xyz/REGIO2O2O/mc.php?c=4&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Mundo
-http://roedor.xyz/REGIO2O2O/mc.php?c=5&f.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca_Coraz%C3%B3n#/media/Archivo:TV_Azteca_Coraz%C3%B3n_logo.svg" group-title="Canales 1",Az Corazon
+http://thex.tv:8000/Eugenio/Eugenio01/6217
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca_Mundo#/media/Archivo:TV_Azteca_Mundo_logo.svg" group-title="Canales 1",Az Mundo
+http://thex.tv:8000/Eugenio/Eugenio01/6218
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AMC
 http://roedor.xyz/REGIO2O2O/mc.php?c=7&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",BBC World
