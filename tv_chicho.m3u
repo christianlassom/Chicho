@@ -46,8 +46,10 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=17&f.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=18&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
 http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Canal
-http://roedor.xyz/REGIO2O2O/mc.php?c=22&f.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="Canales 1",Cine Canal FHD
+http://thex.tv:8000/Eugenio/Eugenio01/371
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="Canales 1",Cine Canal
+http://thex.tv:8000/Eugenio/Eugenio01/373
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Latino
 http://roedor.xyz/REGIO2O2O/mc.php?c=23&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",City TV
