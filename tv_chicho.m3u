@@ -18,10 +18,18 @@ http://173.212.247.99/hls/tvec4.m3u8
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",NBC Universo
 http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E
-http://roedor.xyz/REGIO2O2O/mc.php?c=1&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AXN
-http://roedor.xyz/REGIO2O2O/mc.php?c=2&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E FHD
+http://thex.tv:8000/Eugenio/Eugenio01/357
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E SD
+http://thex.tv:8000/Eugenio/Eugenio01/358
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E SD
+http://thex.tv:8000/Eugenio/Eugenio01/358
+#EXTINF:-1,AXN FHD_
+http://thex.tv:8000/Eugenio/Eugenio01/363
+#EXTINF:-1,AXN HD_
+http://thex.tv:8000/Eugenio/Eugenio01/364
+#EXTINF:-1,AXN SD_
+http://thex.tv:8000/Eugenio/Eugenio01/365
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Corazon
 http://roedor.xyz/REGIO2O2O/mc.php?c=4&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Mundo
