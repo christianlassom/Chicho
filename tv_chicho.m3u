@@ -228,13 +228,14 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=70&f.m3u8
 http://thex.tv:8000/Eugenio/Eugenio01/257
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports CENTRO SD
 http://thex.tv:8000/Eugenio/Eugenio01/258
-http://roedor.xyz/REGIO2O2O/mc.php?c=76&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",France 24
-http://roedor.xyz/REGIO2O2O/mc.php?c=77&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fx Movie
-http://roedor.xyz/REGIO2O2O/mc.php?c=78&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/4213
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fx Movie FHD
+http://thex.tv:8000/Eugenio/Eugenio01/409
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fx Movie SD
+http://thex.tv:8000/Eugenio/Eugenio01/410
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Glitz
-http://roedor.xyz/REGIO2O2O/mc.php?c=80&f.m3u8
+http://thex.tv:8000/Eugenio/Eugenio01/652
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden FHD
 http://thex.tv:8000/Eugenio/Eugenio01/411
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden SD
