@@ -2,9 +2,11 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8D1LrKO.png" tvg-country="EC" tvg-url="" group-title="Canales 1",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/Canal_Uno_(Ecuador)#/media/File:Canal_Uno_(Ecuador)_logo.png" tvg-country="EC" tvg-url="" group-title="Canales 1",Canal 1
+http://173.212.247.99/hls/tvec1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ATPWac1.jpg" tvg-country="EC" tvg-url="" group-title="Canales 1",Ecuador TV Canal 7
 https://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="EC" tvg-url="" group-title="Canales 1",Ecuavisa HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logo_Ecuavisa.svg" tvg-country="EC" tvg-url="" group-title="Canales 1",Ecuavisa HD
 http://173.212.247.99/hls/tvec2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="EC" tvg-url="" group-title="Canales 1",Gama TV HD
 http://173.212.247.99/hls/tvec1.m3u8
