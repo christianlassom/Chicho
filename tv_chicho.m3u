@@ -1,11 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8D1LrKO.png" tvg-country="EC" tvg-url="" group-title="Canales 1",Canela TV
-http://inliveserver.com:1935/8074/8074/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" tvg-country="EC" tvg-url="" group-title="Canales 1",Canal 1
 http://173.212.247.99/hls/tvec1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ATPWac1.jpg" tvg-country="EC" tvg-url="" group-title="Canales 1",Ecuador TV Canal 7
-https://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Ecuavisa.svg" tvg-country="EC" tvg-url="" group-title="Canales 1",Ecuavisa HD
 http://173.212.247.99/hls/tvec2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-country="EC" tvg-url="" group-title="Canales 1",Gama TV HD
@@ -22,409 +19,297 @@ https://5d4837686f698.streamlock.net/tctelevision/tctelevision/playlist.m3u8
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" tvg-country="EC" tvg-url="" group-title="Canales 1",RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBCUniversal#/media/File:NBC_Universal.svgp" group-title="Canales 1",NBC Universo
-http://thex.tv:8000/Victoria/Victoria01/1893
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/207.png" group-title="Canales 1",A&E FHD
-http://thex.tv:8000/Victoria/Victoria01/357
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/207.png" group-title="Canales 1",A&E SD
-http://thex.tv:8000/Victoria/Victoria01/358
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/209.png" group-title="Canales 1",AXN FHD
-http://thex.tv:8000/Victoria/Victoria01/363
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/209.png" group-title="Canales 1",AXN HD_
-http://thex.tv:8000/Victoria/Victoria01/364
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/209.png" group-title="Canales 1",AXN SD_
-http://thex.tv:8000/Victoria/Victoria01/365
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca_Coraz%C3%B3n#/media/Archivo:TV_Azteca_Coraz%C3%B3n_logo.svg" group-title="Canales 1",Az Corazon
-http://thex.tv:8000/Victoria/Victoria01/6217
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Azteca_Mundo#/media/Archivo:TV_Azteca_Mundo_logo.svg" group-title="Canales 1",Az Mundo
-http://thex.tv:8000/Victoria/Victoria01/6218
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/210.png" group-title="Canales 1",AMC FHD 
-http://thex.tv:8000/Victoria/Victoria01/361
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/210.png" group-title="Canales 1",AMC SD 
-http://thex.tv:8000/Victoria/Victoria01/362
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",BBC AMERICA ENTERTAINMENT
-http://thex.tv:8000/Victoria/Victoria01/1309
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1317.png" group-title="Canales 1",Baby TV
-http://thex.tv:8000/Victoria/Victoria01/491
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1317.png" group-title="Canales 1",Baby TV FHD
-http://thex.tv:8000/Victoria/Victoria01/491
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/710.png" group-title="Canales 1",Bloomberg
-http://thex.tv:8000/Victoria/Victoria01/1219
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/704.png" group-title="Canales 1",CNN Espanol
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",NBC Universo
+http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E
+http://roedor.xyz/REGIO2O2O/mc.php?c=1&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AXN
+http://roedor.xyz/REGIO2O2O/mc.php?c=2&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Corazon
+http://roedor.xyz/REGIO2O2O/mc.php?c=4&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Mundo
+http://roedor.xyz/REGIO2O2O/mc.php?c=5&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AMC
+http://roedor.xyz/REGIO2O2O/mc.php?c=7&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",BBC World
+http://roedor.xyz/REGIO2O2O/mc.php?c=10&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby TV
+http://roedor.xyz/REGIO2O2O/mc.php?c=11&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Bloomberg
+http://roedor.xyz/REGIO2O2O/mc.php?c=13&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
 http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional HD
-http://thex.tv:8000/Victoria/Victoria01/6229
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
-http://thex.tv:8000/Victoria/Victoria01/4957
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/727.png" group-title="Canales 1",Cable Noticias
-http://thex.tv:8000/Victoria/Victoria01/894
+http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cable Noticias
+http://roedor.xyz/REGIO2O2O/mc.php?c=16&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal Claro
+http://roedor.xyz/REGIO2O2O/mc.php?c=17&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal de las estrellas Latino
-http://thex.tv:8000/Victoria/Victoria01/633
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Canales 1",Cartoon Network HD
-http://thex.tv:8000/Victoria/Victoria01/729
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="Canales 1",Cine Canal FHD
-http://thex.tv:8000/Victoria/Victoria01/371
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Canales 1",Cine Canal
-http://thex.tv:8000/Victoria/Victoria01/373
+http://roedor.xyz/REGIO2O2O/mc.php?c=18&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
+http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Canal
+http://roedor.xyz/REGIO2O2O/mc.php?c=22&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Latino
-http://thex.tv:8000/Victoria/Victoria01/374
+http://roedor.xyz/REGIO2O2O/mc.php?c=23&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",City TV
-http://thex.tv:8000/Victoria/Victoria01/913
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports FHD
-http://thex.tv:8000/Victoria/Victoria01/201
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports SD
-http://thex.tv:8000/Victoria/Victoria01/203
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/215.png" group-title="Canales 1",Comedy Central HD
-http://thex.tv:8000/Victoria/Victoria01/1346
+http://roedor.xyz/REGIO2O2O/mc.php?c=26&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Cinema
+http://roedor.xyz/REGIO2O2O/mc.php?c=27&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Music 1
+http://roedor.xyz/REGIO2O2O/mc.php?c=28&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Music 2
+http://roedor.xyz/REGIO2O2O/mc.php?c=29&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports
+http://roedor.xyz/REGIO2O2O/mc.php?c=30&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports Latinoamerica
+http://roedor.xyz/REGIO2O2O/mc.php?c=31&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Comedy Central
+http://roedor.xyz/REGIO2O2O/mc.php?c=32&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Concert Channel
-http://thex.tv:8000/Victoria/Victoria01/589
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/513.png" group-title="Canales 1",DHE FHD
-http://thex.tv:8000/Victoria/Victoria01/380
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/513.png" group-title="Canales 1",DHE SD
-http://thex.tv:8000/Victoria/Victoria01/381
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/770.png" group-title="Canales 1",DW
-http://thex.tv:8000/Victoria/Victoria01/626
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/770.png" group-title="Canales 1",DW America
+http://roedor.xyz/REGIO2O2O/mc.php?c=33&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DHE
+http://roedor.xyz/REGIO2O2O/mc.php?c=34&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DW
+http://roedor.xyz/REGIO2O2O/mc.php?c=35&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DW America
 http://roedor.xyz/REGIO2O2O/mc.php?c=36&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",De Pelicula
-http://thex.tv:8000/Victoria/Victoria01/6119
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/732.png" group-title="Canales 1",Discovery Channel FHD
-http://thex.tv:8000/Victoria/Victoria01/545
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/732.png" group-title="Canales 1",Discovery Channel SD
-http://thex.tv:8000/Victoria/Victoria01/546
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/229.png" group-title="Canales 1",Discovery Home and Health FHD
-http://thex.tv:8000/Victoria/Victoria01/551
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/229.png" group-title="Canales 1",Discovery Home and Health SD
-http://thex.tv:8000/Victoria/Victoria01/552
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/330.png" group-title="Canales 1",Discovery Kids HD
-http://thex.tv:8000/Victoria/Victoria01/502
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/330.png" group-title="Canales 1",Discovery Kids SD
-http://thex.tv:8000/Victoria/Victoria01/503
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Canales 1",Discovery Science FHD
-http://thex.tv:8000/Victoria/Victoria01/557
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Canales 1",Discovery Science SD
-http://thex.tv:8000/Victoria/Victoria01/559
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1731.png" group-title="Canales 1",Discovery Theater FHD
-http://thex.tv:8000/Victoria/Victoria01/560
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1731.png" group-title="Canales 1",Discovery Theater SD
-http://thex.tv:8000/Victoria/Victoria01/562
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Canales 1",Discovery Turbo
-http://thex.tv:8000/Victoria/Victoria01/563
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Canales 1",Discovery Turbo SD
-http://thex.tv:8000/Victoria/Victoria01/565
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1738.png" group-title="Canales 1",Discovery World FHD
-http://thex.tv:8000/Victoria/Victoria01/566
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1738.png" group-title="Canales 1",Discovery World SD
-http://thex.tv:8000/Victoria/Victoria01/568
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney FHD
-http://thex.tv:8000/Victoria/Victoria01/504
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney SD
-http://thex.tv:8000/Victoria/Victoria01/506
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/315.png" group-title="Canales 1",Disney JR FHD
-http://thex.tv:8000/Victoria/Victoria01/507
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/315.png" group-title="Canales 1",Disney JR SD
-http://thex.tv:8000/Victoria/Victoria01/509
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/316.png" group-title="Canales 1",Disney XD FHD
-http://thex.tv:8000/Victoria/Victoria01/510
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/316.png" group-title="Canales 1",Disney XD SD
-http://thex.tv:8000/Victoria/Victoria01/512
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/222.png" group-title="Canales 1",E ! FHD
-http://thex.tv:8000/Victoria/Victoria01/638
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/222.png" group-title="Canales 1",E ! SD
-http://thex.tv:8000/Victoria/Victoria01/639
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/232.png" group-title="Canales 1",El Gourmet
-http://thex.tv:8000/Victoria/Victoria01/640
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/232.png" group-title="Canales 1",El Gourmet SD
-http://thex.tv:8000/Victoria/Victoria01/641
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/621.png" group-title="Canales 1",ESPN CENTRO FHD
-http://thex.tv:8000/Victoria/Victoria01/6208
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/621.png" group-title="Canales 1",ESPN CENTRO SD
-http://thex.tv:8000/Victoria/Victoria01/6209
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN DEPORTES HD
-http://thex.tv:8000/Victoria/Victoria01/218
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/625.png" group-title="Canales 1",ESPN 2 CENTRO FHD
-http://thex.tv:8000/Victoria/Victoria01/223
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/625.png" group-title="Canales 1",ESPN 2 CENTRO SD
-http://thex.tv:8000/Victoria/Victoria01/224
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/626.png" group-title="Canales 1",ESPN 3 CENTRO FHD
-http://thex.tv:8000/Victoria/Victoria01/226
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/626.png" group-title="Canales 1",ESPN 3 CENTRO SD
-http://thex.tv:8000/Victoria/Victoria01/227
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1621.png" group-title="Canales 1",ESPN EXTRA CENTRO FHD
-http://thex.tv:8000/Victoria/Victoria01/229
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN SUR FHD
-http://thex.tv:8000/Victoria/Victoria01/6210
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN SUR SD
-http://thex.tv:8000/Victoria/Victoria01/6211
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/625.png" group-title="Canales 1",ESPN 2 SUR FHD
-http://thex.tv:8000/Victoria/Victoria01/235
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/625.png" group-title="Canales 1",ESPN 2 SUR SD
-http://thex.tv:8000/Victoria/Victoria01/236
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/625.png" group-title="Canales 1",ESPN 2 SUR FHD
-http://thex.tv:8000/Victoria/Victoria01/238
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/625.png" group-title="Canales 1",ESPN 2 SUR SD
-http://thex.tv:8000/Victoria/Victoria01/239
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1621.png" group-title="Canales 1",ESPN EXTRA SUR FHD
-http://thex.tv:8000/Victoria/Victoria01/241
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1621.png" group-title="Canales 1",ESPN EXTRA SUR SD
-http://thex.tv:8000/Victoria/Victoria01/242
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN ARGENTINA HD
-http://thex.tv:8000/Victoria/Victoria01/6212
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ESPN ARGENTINA SD
-http://thex.tv:8000/Victoria/Victoria01/6213
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",ESPN 2 ARGENTINA HD
-http://thex.tv:8000/Victoria/Victoria01/246
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",ESPN 2 ARGENTINA SD
-http://thex.tv:8000/Victoria/Victoria01/247
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1515.png" group-title="Canales 1",Europa Europa
-http://thex.tv:8000/Victoria/Victoria01/383
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg" group-title="Canales 1",Fashion TV FHD
-http://thex.tv:8000/Victoria/Victoria01/646
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/233.png" group-title="Canales 1",Food Network FHD
-http://thex.tv:8000/Victoria/Victoria01/647
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/233.png" group-title="Canales 1",Food Network SD
-http://thex.tv:8000/Victoria/Victoria01/648
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1217.png" group-title="Canales 1",FX HD
-http://thex.tv:8000/Victoria/Victoria01/407
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/217.png" group-title="Canales 1",FX SD
-http://thex.tv:8000/Victoria/Victoria01/408
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1204.png" group-title="Canales 1",Fox FHD
-http://thex.tv:8000/Victoria/Victoria01/384
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1204.png" group-title="Canales 1",Fox SD
-http://thex.tv:8000/Victoria/Victoria01/6222
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/551.png" group-title="Canales 1",Fox Premium Action FHD
-http://thex.tv:8000/Victoria/Victoria01/386
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/551.png" group-title="Canales 1",Fox Premium Action SD
-http://thex.tv:8000/Victoria/Victoria01/388
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/562.png" group-title="Canales 1",Fox Premium Cinema FHD
-http://thex.tv:8000/Victoria/Victoria01/389
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/562.png" group-title="Canales 1",Fox Premium Cinema SD
-http://thex.tv:8000/Victoria/Victoria01/391
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/562.png" group-title="Canales 1",Fox Cinema Subtitulado
+http://roedor.xyz/REGIO2O2O/mc.php?c=37&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Dia TV
+http://roedor.xyz/REGIO2O2O/mc.php?c=38&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=39&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Home and Health
+http://roedor.xyz/REGIO2O2O/mc.php?c=40&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Kids
+http://roedor.xyz/REGIO2O2O/mc.php?c=41&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Science
+http://roedor.xyz/REGIO2O2O/mc.php?c=42&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Theater
+http://roedor.xyz/REGIO2O2O/mc.php?c=43&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Turbo
+http://roedor.xyz/REGIO2O2O/mc.php?c=44&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery World
+http://roedor.xyz/REGIO2O2O/mc.php?c=45&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney
+http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney JR
+http://roedor.xyz/REGIO2O2O/mc.php?c=47&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney XD
+http://roedor.xyz/REGIO2O2O/mc.php?c=48&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",E !
+http://roedor.xyz/REGIO2O2O/mc.php?c=49&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",El Gourmet
+http://roedor.xyz/REGIO2O2O/mc.php?c=50&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 1 Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=51&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 2 Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=52&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 3 Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=53&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn Plus Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=54&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Europa Europa
+http://roedor.xyz/REGIO2O2O/mc.php?c=55&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
+http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox
+http://roedor.xyz/REGIO2O2O/mc.php?c=57&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Action
+http://roedor.xyz/REGIO2O2O/mc.php?c=58&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Cinema
+http://roedor.xyz/REGIO2O2O/mc.php?c=60&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Cinema Subtitulado
 http://roedor.xyz/REGIO2O2O/mc.php?c=61&f.m3u8
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/560.png" group-title="Canales 1",Fox Premium Classics FHD 
-http://thex.tv:8000/Victoria/Victoria01/392
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/560.png" group-title="Canales 1",Fox Premium Classics SD 
-http://thex.tv:8000/Victoria/Victoria01/394
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/557.png" group-title="Canales 1",Fox Premium Comedy FHD
-http://thex.tv:8000/Victoria/Victoria01/395
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/557.png" group-title="Canales 1",Fox Premium Comedy SD
-http://thex.tv:8000/Victoria/Victoria01/397
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/556.png" group-title="Canales 1",Fox Premium Family FHD
-http://thex.tv:8000/Victoria/Victoria01/398
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/556.png" group-title="Canales 1",Fox Premium Family FHD
-http://thex.tv:8000/Victoria/Victoria01/400
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1212.png" group-title="Canales 1",Fox Life
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Classics
+http://roedor.xyz/REGIO2O2O/mc.php?c=62&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Comedy
+http://roedor.xyz/REGIO2O2O/mc.php?c=63&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Family
+http://roedor.xyz/REGIO2O2O/mc.php?c=64&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Life
 http://roedor.xyz/REGIO2O2O/mc.php?c=65&f.m3u8
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1559.png" group-title="Canales 1",Fox Premium Movies FHD
-http://thex.tv:8000/Victoria/Victoria01/401
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1559.png" group-title="Canales 1",Fox Premium Movies SD
-http://thex.tv:8000/Victoria/Victoria01/403
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1552.png" group-title="Canales 1",Fox Premium Series FHD 
-http://thex.tv:8000/Victoria/Victoria01/404
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1552.png" group-title="Canales 1",Fox Premium Series SD
-http://thex.tv:8000/Victoria/Victoria01/406
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1552.png" group-title="Canales 1",Fox Premium Series Subtitulado
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Movies
+http://roedor.xyz/REGIO2O2O/mc.php?c=67&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox News
+http://roedor.xyz/REGIO2O2O/mc.php?c=68&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series
+http://roedor.xyz/REGIO2O2O/mc.php?c=69&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series Subtitulado
 http://roedor.xyz/REGIO2O2O/mc.php?c=70&f.m3u8
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/604.png" group-title="Canales 1",Fox Sports CENTRO FHD
-http://thex.tv:8000/Victoria/Victoria01/257
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/604.png" group-title="Canales 1",Fox Sports CENTRO SD
-http://thex.tv:8000/Victoria/Victoria01/258
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 1 MX
+http://roedor.xyz/REGIO2O2O/mc.php?c=71&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 1 Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=72&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 2 Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=73&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 2 MX
+http://roedor.xyz/REGIO2O2O/mc.php?c=74&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 3 MX
+http://roedor.xyz/REGIO2O2O/mc.php?c=75&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 3 Sur
+http://roedor.xyz/REGIO2O2O/mc.php?c=76&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",France 24
-http://thex.tv:8000/Victoria/Victoria01/4213
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/217.png" group-title="Canales 1",Fx Movie FHD
-http://thex.tv:8000/Victoria/Victoria01/409
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/217.png" group-title="Canales 1",Fx Movie SD
-http://thex.tv:8000/Victoria/Victoria01/410
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/224.png" group-title="Canales 1",Glitz
-http://thex.tv:8000/Victoria/Victoria01/652
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden FHD
-http://thex.tv:8000/Victoria/Victoria01/411
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden SD
-http://thex.tv:8000/Victoria/Victoria01/412
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden Premium FHD
-http://thex.tv:8000/Victoria/Victoria01/417
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golf Channel FHD
-http://thex.tv:8000/Victoria/Victoria01/292
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO FHD 
-http://thex.tv:8000/Victoria/Victoria01/418
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO SD
-http://thex.tv:8000/Victoria/Victoria01/419
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO 2 FHD
-http://thex.tv:8000/Victoria/Victoria01/420
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Family FHD
-http://thex.tv:8000/Victoria/Victoria01/423
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Canales 1",HBO Signature FHD
-http://thex.tv:8000/Victoria/Victoria01/429
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Canales 1",HBO XTREME FHD
-http://thex.tv:8000/Victoria/Victoria01/434
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Canales 1",HBO plus FHD
-http://thex.tv:8000/Victoria/Victoria01/426
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Canales 1",HBO plus SD
-http://thex.tv:8000/Victoria/Victoria01/427
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svgp" group-title="Canales 1",HBO WEST FHD
-http://thex.tv:8000/Victoria/Victoria01/432
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HTV SD
-http://thex.tv:8000/Victoria/Victoria01/591
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Canales 1",History Channel FHD
-http://thex.tv:8000/Victoria/Victoria01/573
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Canales 1",History Channel SD
-http://thex.tv:8000/Victoria/Victoria01/574
-#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2015/09/canal-h2-hd-na-net.png" group-title="Canales 1",HISTORY 2 FHD
-http://thex.tv:8000/Victoria/Victoria01/570
-#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2015/09/canal-h2-hd-na-net.png" group-title="Canales 1",HISTORY 2 SD
-http://thex.tv:8000/Victoria/Victoria01/571
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Hola TV FHD
-http://thex.tv:8000/Victoria/Victoria01/653
+http://roedor.xyz/REGIO2O2O/mc.php?c=77&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fx Movie
+http://roedor.xyz/REGIO2O2O/mc.php?c=78&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Glitz
+http://roedor.xyz/REGIO2O2O/mc.php?c=80&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden
+http://roedor.xyz/REGIO2O2O/mc.php?c=81&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden Premium
+http://roedor.xyz/REGIO2O2O/mc.php?c=82&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golf Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=83&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO
+http://roedor.xyz/REGIO2O2O/mc.php?c=84&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO 2
+http://roedor.xyz/REGIO2O2O/mc.php?c=85&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Family
+http://roedor.xyz/REGIO2O2O/mc.php?c=86&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Signature
+http://roedor.xyz/REGIO2O2O/mc.php?c=87&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Subtitulado
+http://roedor.xyz/REGIO2O2O/mc.php?c=88&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO plus
+http://roedor.xyz/REGIO2O2O/mc.php?c=89&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HLN
+http://roedor.xyz/REGIO2O2O/mc.php?c=90&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HTV
+http://roedor.xyz/REGIO2O2O/mc.php?c=91&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",History Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=92&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",H2
+http://roedor.xyz/REGIO2O2O/mc.php?c=93&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Hola TV
+http://roedor.xyz/REGIO2O2O/mc.php?c=94&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",I.Sat
-http://thex.tv:8000/Victoria/Victoria01/433
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Investigation Discovery FHD
-http://thex.tv:8000/Victoria/Victoria01/554
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Lifetime FHD
-http://thex.tv:8000/Victoria/Victoria01/656
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV FHD
-http://thex.tv:8000/Victoria/Victoria01/597
+http://roedor.xyz/REGIO2O2O/mc.php?c=95&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Investigation Discovery
+http://roedor.xyz/REGIO2O2O/mc.php?c=96&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Lifetime
+http://roedor.xyz/REGIO2O2O/mc.php?c=97&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV
+http://roedor.xyz/REGIO2O2O/mc.php?c=98&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV Hits
-http://thex.tv:8000/Victoria/Victoria01/598
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV Classics
-http://thex.tv:8000/Victoria/Victoria01/594
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV Dance
-http://thex.tv:8000/Victoria/Victoria01/4269
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV Rocks
-http://thex.tv:8000/Victoria/Victoria01/603
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV live
-http://thex.tv:8000/Victoria/Victoria01/600
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Mas Chic FHD
-http://thex.tv:8000/Victoria/Victoria01/659
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nickelodeon
-http://thex.tv:8000/Victoria/Victoria01/790
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nick Jr
-http://thex.tv:8000/Victoria/Victoria01/4283
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nick Teen
-http://thex.tv:8000/Victoria/Victoria01/4284
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Wild FHD
-http://thex.tv:8000/Victoria/Victoria01/579
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Wild SD
-http://thex.tv:8000/Victoria/Victoria01/580
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Kids FHD
-http://thex.tv:8000/Victoria/Victoria01/520
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Kids SD
-http://thex.tv:8000/Victoria/Victoria01/521
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",National Geographic LA FHD
-http://thex.tv:8000/Victoria/Victoria01/576
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",National Geographic LA SD
-http://thex.tv:8000/Victoria/Victoria01/577
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Win Sports 
-http://thex.tv:8000/Victoria/Victoria01/4532
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel FHD
-http://thex.tv:8000/Victoria/Victoria01/485
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel SD
-http://thex.tv:8000/Victoria/Victoria01/486
+http://roedor.xyz/REGIO2O2O/mc.php?c=99&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Mas Chic
+http://roedor.xyz/REGIO2O2O/mc.php?c=100&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Win Sports
+http://roedor.xyz/REGIO2O2O/mc.php?c=101&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Vh1 Classic
-http://thex.tv:8000/Victoria/Victoria01/4433
+http://roedor.xyz/REGIO2O2O/mc.php?c=103&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Vh1
+http://roedor.xyz/REGIO2O2O/mc.php?c=104&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Univision
-http://thex.tv:8000/Victoria/Victoria01/672
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Universal Channel FHD
-http://thex.tv:8000/Victoria/Victoria01/463
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Universal Channel SD
-http://thex.tv:8000/Victoria/Victoria01/464
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Unicable FHD
-http://thex.tv:8000/Victoria/Victoria01/670
+http://roedor.xyz/REGIO2O2O/mc.php?c=105&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Universal Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=106&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Unicable
+http://roedor.xyz/REGIO2O2O/mc.php?c=107&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tru TV
-http://thex.tv:8000/Victoria/Victoria01/834
+http://roedor.xyz/REGIO2O2O/mc.php?c=108&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tve
-http://thex.tv:8000/Victoria/Victoria01/1293
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tooncast FHD
-http://thex.tv:8000/Victoria/Victoria01/538
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Telemundo FHD
-http://thex.tv:8000/Victoria/Victoria01/666
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT Series FHD
-http://thex.tv:8000/Victoria/Victoria01/474
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT Series SD 
-http://thex.tv:8000/Victoria/Victoria01/475
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT FHD 
-http://thex.tv:8000/Victoria/Victoria01/471
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT SD
-http://thex.tv:8000/Victoria/Victoria01/472
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TLC FHD
-http://thex.tv:8000/Victoria/Victoria01/581
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TLC SD
-http://thex.tv:8000/Victoria/Victoria01/582
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TCM CINEMA FHD
-http://thex.tv:8000/Victoria/Victoria01/4382
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TBS FHD
-http://thex.tv:8000/Victoria/Victoria01/664
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sundance Channel FHD
-http://thex.tv:8000/Victoria/Victoria01/662
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Studio Universal FHD
-http://thex.tv:8000/Victoria/Victoria01/463
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Space FHD
-http://thex.tv:8000/Victoria/Victoria01/448
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sony FHD
-http://thex.tv:8000/Victoria/Victoria01/445
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sony SD
-http://thex.tv:8000/Victoria/Victoria01/446
+http://roedor.xyz/REGIO2O2O/mc.php?c=109&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tooncast
+http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Telemundo 
+http://roedor.xyz/REGIO2O2O/mc.php?c=111&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT Series
+http://roedor.xyz/REGIO2O2O/mc.php?c=112&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT
+http://roedor.xyz/REGIO2O2O/mc.php?c=113&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TLC
+http://roedor.xyz/REGIO2O2O/mc.php?c=114&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TCM
+http://roedor.xyz/REGIO2O2O/mc.php?c=115&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TBS
+http://roedor.xyz/REGIO2O2O/mc.php?c=116&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sundance Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=117&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Studio Universal
+http://roedor.xyz/REGIO2O2O/mc.php?c=118&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Space
+http://roedor.xyz/REGIO2O2O/mc.php?c=119&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sony
+http://roedor.xyz/REGIO2O2O/mc.php?c=120&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Pasiones
-http://thex.tv:8000/Victoria/Victoria01/661
+http://roedor.xyz/REGIO2O2O/mc.php?c=122&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Paramount Channel
-http://thex.tv:8000/Victoria/Victoria01/438
+http://roedor.xyz/REGIO2O2O/mc.php?c=123&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nickelodeon
+http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nick Jr
+http://roedor.xyz/REGIO2O2O/mc.php?c=125&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nick 2
+http://roedor.xyz/REGIO2O2O/mc.php?c=126&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Wild
+http://roedor.xyz/REGIO2O2O/mc.php?c=127&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Mex
+http://roedor.xyz/REGIO2O2O/mc.php?c=128&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Kids Mex
+http://roedor.xyz/REGIO2O2O/mc.php?c=129&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Kids
+http://roedor.xyz/REGIO2O2O/mc.php?c=130&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",National Geographic Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=131&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Mtv Live
+http://roedor.xyz/REGIO2O2O/mc.php?c=133&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Max Up
-http://thex.tv:8000/Victoria/Victoria01/781
+http://roedor.xyz/REGIO2O2O/mc.php?c=134&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Max Prime
-http://thex.tv:8000/Victoria/Victoria01/780
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Las Estrellas FHD
-http://thex.tv:8000/Victoria/Victoria01/633
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Azteca Uno FHD
-http://thex.tv:8000/Victoria/Victoria01/6220
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Azteca 7 FHD
-http://thex.tv:8000/Victoria/Victoria01/6221
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Boomerang FHD
-http://thex.tv:8000/Victoria/Victoria01/494
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby First FHD
-http://thex.tv:8000/Victoria/Victoria01/488
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Animal Planet FHD 
-http://thex.tv:8000/Victoria/Victoria01/542
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Animal Planet SD 
-http://thex.tv:8000/Victoria/Victoria01/543
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cinemax FHD
-http://thex.tv:8000/Victoria/Victoria01/377
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cinemax SD 
-http://thex.tv:8000/Victoria/Victoria01/378
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cinemax 2 FHD
-http://thex.tv:8000/Victoria/Victoria01/5052
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cinemax ACTION FHD 
-http://thex.tv:8000/Victoria/Victoria01/376
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ FHD 
-http://thex.tv:8000/Victoria/Victoria01/459
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ ACTION FHD
-http://thex.tv:8000/Victoria/Victoria01/451
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ BLACK FHD
-http://thex.tv:8000/Victoria/Victoria01/452
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ CLASSICS FHD
-http://thex.tv:8000/Victoria/Victoria01/453
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ COMEDIA FHD
-http://thex.tv:8000/Victoria/Victoria01/454
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ EDGE FHD
-http://thex.tv:8000/Victoria/Victoria01/456
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ ENCORE FHD
-http://thex.tv:8000/Victoria/Victoria01/457
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ FAMILY HD
-http://thex.tv:8000/Victoria/Victoria01/458
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ KIDS & FAMILY FHD
-http://thex.tv:8000/Victoria/Victoria01/460
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ SUSPENSE FHD
-http://thex.tv:8000/Victoria/Victoria01/461
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STARZ WESTERN FHD
-http://thex.tv:8000/Victoria/Victoria01/462
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",STUDIO UNIVERSAL FHD
-http://thex.tv:8000/Victoria/Victoria01/463
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",SIFY FHD
-http://thex.tv:8000/Victoria/Victoria01/466
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/101.png" group-title="Canales 1",DIRECTV ECUADOR FHD
-http://thex.tv:8000/Victoria/Victoria01/208
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="Canales 1",DIRECTV SPORTS FHD
-http://thex.tv:8000/Victoria/Victoria01/209
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="Canales 1",DIRECTV SPORTS 2 FHD
-http://thex.tv:8000/Victoria/Victoria01/212
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="Canales 1",DIRECTV SPORTS PLUS HD
-http://thex.tv:8000/Victoria/Victoria01/216
+http://roedor.xyz/REGIO2O2O/mc.php?c=135&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Max
+http://roedor.xyz/REGIO2O2O/mc.php?c=136&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn U
+http://roedor.xyz/REGIO2O2O/mc.php?c=138&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn Sec Network
+http://roedor.xyz/REGIO2O2O/mc.php?c=139&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn
+http://roedor.xyz/REGIO2O2O/mc.php?c=140&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 2
+http://roedor.xyz/REGIO2O2O/mc.php?c=141&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 3
+http://roedor.xyz/REGIO2O2O/mc.php?c=142&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Galatv
+http://roedor.xyz/REGIO2O2O/mc.php?c=143&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Las Estrellas
+http://roedor.xyz/REGIO2O2O/mc.php?c=144&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal 5
+http://roedor.xyz/REGIO2O2O/mc.php?c=145&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Azteca Uno
+http://roedor.xyz/REGIO2O2O/mc.php?c=146&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Azteca 7
+http://roedor.xyz/REGIO2O2O/mc.php?c=147&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ADN 40
+http://roedor.xyz/REGIO2O2O/mc.php?c=148&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Foro TV
+http://roedor.xyz/REGIO2O2O/mc.php?c=149&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Multimedios
+http://roedor.xyz/REGIO2O2O/mc.php?c=150&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TelefÃ³rmula
+http://roedor.xyz/REGIO2O2O/mc.php?c=151&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Televisa MTY
+http://roedor.xyz/REGIO2O2O/mc.php?c=152&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Boomerang
+http://roedor.xyz/REGIO2O2O/mc.php?c=153&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Distrito Comedia
+http://roedor.xyz/REGIO2O2O/mc.php?c=154&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby First
+http://roedor.xyz/REGIO2O2O/mc.php?c=155&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Animal Planet
+http://roedor.xyz/REGIO2O2O/mc.php?c=315&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cinemax
+http://roedor.xyz/REGIO2O2O/mc.php?c=316&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports 1
+http://roedor.xyz/REGIO2O2O/mc.php?c=317&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports 2
+http://roedor.xyz/REGIO2O2O/mc.php?c=318&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports Plus
+http://roedor.xyz/REGIO2O2O/mc.php?c=319&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Univision Deportes
+http://roedor.xyz/REGIO2O2O/mc.php?c=320&f.m3u8
